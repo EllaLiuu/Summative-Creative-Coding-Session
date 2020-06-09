@@ -1,0 +1,23 @@
+var data
+var lexicon;
+
+var txt = '&&uh&&! they said &&rb&& as they jumped into their &&nn&& and flew off with their &&jj&& &&nns&&.';
+
+function setup (){
+	noCanvas();
+	var button = createButton('generate madlib');
+	lexicon = new RiLexicon();
+	button.mousePressed(generate);
+
+}
+
+function replacer(match,pos) {
+	var entry = lexicon.randomWord(pos);
+	return entry;
+
+}
+
+function generate() {
+	var madlib = txt.replace(/&&(.*?)&&/g, replacer);
+	createP(madlib);
+}
