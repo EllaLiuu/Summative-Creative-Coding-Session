@@ -1,11 +1,13 @@
 var data
 var lexicon;
 
-var txt = '&&uh&&! they said &&rb&& as they jumped into their &&nn&& and flew off with their &&jj&& &&nns&&.';
+
+var txt = 'Yesterday, on our way to the &&jj&& park, we saw a &&jj&& &&nn&& on a bike. We also saw big &&jj&& ballons tied to a &&nn&&. George and I &&rb&& &&vbd&& all the way home.';
+
 
 function setup (){
-	noCanvas();
-	var button = createButton('generate madlib');
+    noCanvas();
+	var button = createButton('Generate Mad Lib!');
 	lexicon = new RiLexicon();
 	button.mousePressed(generate);
 
@@ -21,3 +23,4 @@ function generate() {
 	var madlib = txt.replace(/&&(.*?)&&/g, replacer);
 	createP(madlib);
 }
+
