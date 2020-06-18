@@ -3,7 +3,7 @@ This repository contains the progress I have made on the Mad Libs Generator codi
 
 My creative coding session was based off Professor Dan Shiffman's [Coding Challenge #39: Mad Libs Generator](https://www.youtube.com/watch?v=ziBO-U2_t3k&t=855s)
 
-Resources for orginal version:
+Resources for original version:
 * [Old Tabletop.js GitHub](https://github.com/jsoma/tabletop)
 * [Papa Parse](https://www.papaparse.com/)
 * [Papa Parse GitHub](https://github.com/mholt/PapaParse)
