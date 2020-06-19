@@ -1,5 +1,5 @@
 # Summative Creative Coding Session - Mad Libs Generator
-This repository contains the progress I have made on the Mad Libs Generator coding challenge as well as the progress made on 2 of my peer's submissions.
+This repository contains the progress I have made on the Mad Libs Generator coding challenge as well as the progress made on 2 of my peer's submissions. Visit my other repositories to learn more about how I refactored the [timer](https://github.com/EllaLiuu/Classmate-Timer) and [perlin noise terrain](https://github.com/EllaLiuu/Classmate-Perlin) challenges.
 
 My creative coding session was based off Professor Dan Shiffman's [Coding Challenge #39: Mad Libs Generator](https://www.youtube.com/watch?v=ziBO-U2_t3k&t=855s)
 
