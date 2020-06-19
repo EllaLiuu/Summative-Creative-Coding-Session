@@ -15,7 +15,9 @@ Resources for refactored version:
 * [RiTa.js Reference](https://rednoise.org/rita/reference/index.php)
 * [PENN Pos tags](http://rednoise.org/rita/reference/PennTags.html)
 
-1. My classmate's coding session was based off Professor Dan Shiffman's [Coding Challenge #66: JavaScript Countdown Timer](https://www.youtube.com/watch?v=MLtAMg9_Svw)
+
+# Classmate's Creative Coding Sessions - Timer 
+My classmate's coding session was based off Professor Dan Shiffman's [Coding Challenge #66: JavaScript Countdown Timer](https://www.youtube.com/watch?v=MLtAMg9_Svw)
 
 What I did to refactor the code:
 * Added an input and button which asked for user input as to indicate how long the timer would go on for 
