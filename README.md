@@ -16,9 +16,16 @@ Resources for refactored version:
 * [PENN Pos tags](http://rednoise.org/rita/reference/PennTags.html)
 
 
-# Classmate's Creative Coding Sessions - Timer 
+# Classmates' Creative Coding Sessions - Timer 
 My classmate's coding session was based off Professor Dan Shiffman's [Coding Challenge #66: JavaScript Countdown Timer](https://www.youtube.com/watch?v=MLtAMg9_Svw)
 
-What I did to refactor the code:
+What I did to refactor the program:
 * Added an input and button which asked for user input as to indicate how long the timer would go on for 
 * Added a text saying "Times Up!" when the timer reached 0
+
+My classmate's coding session was based off Professor Dan Shiffman's [Coding Challenge #11: 3D Terrain Generation with Perlin Noise in Processing](https://www.youtube.com/watch?v=IKB1hWWedMk)
+
+What I did to refactor the program:
+* Changed the fill color and background to make it look more like real mountains instead of drawing it as a mesh
+* Changed the rotation amount to make it seem like we are flying into the mountains rather than over them
+* Changed the speed at which we were "flying" to make it go faster
